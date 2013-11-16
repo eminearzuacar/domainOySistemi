@@ -1,0 +1,15 @@
+www.facebook.com;117;
+www.google.com;159;
+www.twitter.com;121;
+www.instagram.com;185;
+www.pinterest.com;71;
+www.vimeo.com;45;
+www.yahoo.com;28;
+www.foursquare.com;3;
+www.gmail.com;5;
+www.facebook.com;
+www.instagram.com;
+www.twitter.com;
+www.pinterest.com;
+www.vimeo.com;
+www.google.com;

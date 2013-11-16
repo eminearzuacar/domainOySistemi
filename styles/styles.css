@@ -1,0 +1,138 @@
+/***************************************************Reset Css*********************************************************/
+html, body {
+    height:100%;
+}
+body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, br, hr, form, input, a, table, tr ,td {
+    margin:0px; 
+    padding:0px;
+}
+.clear {
+    margin:0px; 
+    padding:0px; 
+    width:0px; 
+    height:0px; 
+    font-size:0px; 
+    line-height:0px; 
+    clear:both;
+}
+a, input {
+    outline:none;
+}
+body {
+    font-size:100.01%;
+}
+/***************************************************Reset Css*********************************************************/
+
+body {
+    background-color: #D5DAF4;
+    font-family: Arial, Verdana, Tahoma;
+}
+
+.icerikAlani {
+    width: 400px;
+    min-height: 250px;
+    margin: 150px auto 0 auto;
+    color: #121C49;
+    background-image: -ms-linear-gradient(top left, #5E7AFF 0%, #071A71 100%);
+    background-image: -moz-linear-gradient(top left, #5E7AFF 0%, #071A71 100%);
+    background-image: -o-linear-gradient(top left, #5E7AFF 0%, #071A71 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #5E7AFF), color-stop(1, #071A71));
+    background-image: -webkit-linear-gradient(top left, #5E7AFF 0%, #071A71 100%);
+    background-image: linear-gradient(to bottom right, #5E7AFF 0%, #071A71 100%);
+    border: 1px solid #121C49;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    position: relative;
+}
+
+#anketFormu {
+    color: #121C49;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.sonucAlani {
+    width: 350px;
+    height: 12px;
+    margin: 30px auto 0 auto;
+    font-size: 14px;
+    color: #eeeeee;
+    text-align: center;
+}
+
+.anketText {
+    width: 250px;
+    height:15px;
+    padding: 10px 15px 10px 15px;
+    margin: 40px auto 0 auto;
+    background-color: #E6E9F9;
+    display: block;
+    border: 1px solid #CDD2F3;
+    webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.anketSubmit {
+    width: 150px;
+    height: 30px;
+    padding: 0 15px 0 15px;
+    margin: 25px auto 0 auto;
+    background-color: #E6E9F9;
+    font-weight: bold;
+    display: block;
+    border: 1px solid #BEC5EF;
+    webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-image: -ms-linear-gradient(top left, #E6E9F9 0%, #8291E1 100%);
+    background-image: -moz-linear-gradient(top left, #E6E9F9 0%, #8291E1 100%);
+    background-image: -o-linear-gradient(top left, #E6E9F9 0%, #8291E1 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #E6E9F9), color-stop(1, #8291E1));
+    background-image: -webkit-linear-gradient(top left, #E6E9F9 0%, #8291E1 100%);
+    background-image: linear-gradient(to bottom right, #E6E9F9 0%, #8291E1 100%);
+}
+
+.anketSubmit:hover {
+    background-image: -ms-linear-gradient(top left, #8291E1 0%, #E6E9F9 100%);
+    background-image: -moz-linear-gradient(top left, #8291E1 0%, #E6E9F9 100%);
+    background-image: -o-linear-gradient(top left, #8291E1 0%, #8291E1 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #8291E1), color-stop(1, #E6E9F9));
+    background-image: -webkit-linear-gradient(top left, #8291E1 0%, #E6E9F9 100%);
+    background-image: linear-gradient(to bottom right, #8291E1 0%, #E6E9F9 100%);
+}
+
+.linkAlani {
+    font-weight: bold;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+
+.linkAlani a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+.icerikAlani ol {
+    margin: 30px 0 50px 50px;
+}
+
+.icerikAlani ol li {
+    list-style-type: decimal;
+    font-size: 13px;
+    color: #eeeeee;
+    line-height: 22px;
+}
+
+.icerikAlani ol li a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+.oyVer {
+    float: right;
+    margin-right: 25px;
+}
